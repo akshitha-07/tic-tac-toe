@@ -1,14 +1,14 @@
-# Tic Tac Toe AI (CS50 AI)
+Tic Tac Toe AI
 
-Built an AI-based Tic TacToe game using the Minimax algorithm as part of CS50’s Introduction to Artificial Intelligence with Python.
+Developed an AI-powered Tic Tac Toe game using Python and the Minimax algorithm to implement optimal decision-making and unbeatable gameplay.
 
-## Features
-• Optimal move selection using adversarial search (Minimax)  
-• Handles terminal states and utility evaluation  
-• Ensures unbeatable gameplay  
+Features
+• Intelligent move selection using adversarial search (Minimax)
+• Terminal state detection and utility-based board evaluation
+• Interactive graphical interface built using Pygame
 
-## Tech Stack
-Python, Minimax Algorithm
+Tech Stack
+Python, Pygame, Minimax Algorithm, Game Theory
 
-## How to Run
+How to Run
 python runner.py
